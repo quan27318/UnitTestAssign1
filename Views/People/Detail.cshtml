@@ -1,0 +1,49 @@
+@model MVCAssign.Models.PersonModel
+@{
+    ViewData["Title"]= "Add";
+}
+<h1>This Is Detail Page</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                 @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+
+            <th>
+                 @Html.DisplayNameFor(model => model.Address)
+                
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                Aciton 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        {
+            <tr>
+                
+                <td>
+                    <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                    <a asp-action="Index">Back To List</a>
+                </td>
+            
+            </tr>
+        }
+    </tbody>
+</table>
+© 2022 GitHub, Inc.
+Terms
+Privacy

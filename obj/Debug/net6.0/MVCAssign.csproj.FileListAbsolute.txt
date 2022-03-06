@@ -1,0 +1,53 @@
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\appsettings.Development.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\appsettings.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.staticwebassets.runtime.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.exe
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.deps.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.runtimeconfig.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.dll
+D:\NashTech\The Nashtech\MVC\MVCAssign\bin\Debug\net6.0\MVCAssign.pdb
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.csproj.AssemblyReference.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.AssemblyInfoInputs.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.AssemblyInfo.cs
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.csproj.CoreCompileInputs.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.MvcApplicationPartsAssemblyInfo.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.RazorAssemblyInfo.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.RazorAssemblyInfo.cs
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\staticwebassets.build.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\staticwebassets.development.json
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\scopedcss\bundle\MVCAssign.styles.css
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\scopedcss\projectbundle\MVCAssign.bundle.scp.css
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.dll
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\refint\MVCAssign.dll
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.pdb
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\MVCAssign.genruntimeconfig.cache
+D:\NashTech\The Nashtech\MVC\MVCAssign\obj\Debug\net6.0\ref\MVCAssign.dll
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\appsettings.Development.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\appsettings.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.staticwebassets.runtime.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.exe
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.deps.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.runtimeconfig.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.dll
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\MVCAssign.pdb
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.csproj.AssemblyReference.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.AssemblyInfoInputs.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.AssemblyInfo.cs
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.csproj.CoreCompileInputs.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.MvcApplicationPartsAssemblyInfo.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.RazorAssemblyInfo.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.RazorAssemblyInfo.cs
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\staticwebassets.build.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\staticwebassets.development.json
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\scopedcss\bundle\MVCAssign.styles.css
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\scopedcss\projectbundle\MVCAssign.bundle.scp.css
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.dll
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\refint\MVCAssign.dll
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.pdb
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\MVCAssign.genruntimeconfig.cache
+D:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\obj\Debug\net6.0\ref\MVCAssign.dll
+d:\NashTech\The Nashtech\Unit Test\UnitTestAssign\MVCAssign\bin\Debug\net6.0\ref\MVCAssign.dll
